@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corneliitacitih00tacigoog/corneliitacitih00tacigoog_0533.png"; bbox 0 0 3164 5348; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 568 2586 1048 2640">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 568 2586 1048 2640">
+     <span class='ocr_line' id='line_1_1' title="bbox 568 2586 1048 2640; baseline 0.006 -13"><span class='ocrx_word' id='word_1_1' title='bbox 568 2587 665 2629; x_wconf 75' lang='lat' dir='ltr'><em>Prinud</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 675 2586 701 2638; x_wconf 75' lang='lat' dir='ltr'><em>by</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 711 2587 738 2627; x_wconf 87' lang='lat' dir='ltr'><em>R.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 749 2586 769 2629; x_wconf 73' lang='grc' dir='ltr'>ἃ</span> <span class='ocrx_word' id='word_1_5' title='bbox 779 2587 806 2629; x_wconf 76' lang='lat' dir='ltr'><em>R.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 817 2587 907 2638; x_wconf 71' lang='grc' dir='ltr'><em>(ΞιΛικ,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 919 2587 1048 2640; x_wconf 66' lang='lat' dir='ltr'><em>Edinburgh</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1586 5348">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1586 5348">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1586 5348; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1586 5348; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
